@@ -3,5 +3,6 @@ Why do we use it?
 Where does it come from?
 Where can I get some?
 
-Lorem Ipsum
----------------
+New content
+New sentence
+-------------------------
